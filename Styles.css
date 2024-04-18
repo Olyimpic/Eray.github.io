@@ -9,7 +9,7 @@ body {
 }
 
 /* Specific styles for each page, changing the background image */
-.page1 {
+.index {
     background-image: url('Background/FirstNight.jpg'); /* Background for the home page */
 }
 
